@@ -9,7 +9,7 @@ import { TaskService } from './../task.service';
 export class ShoplistPage implements OnInit {
 
 	articulos: any;
-
+	visible = false;
 	constructor(public taskService: TaskService)
 	{
 		this.getAllArticles();
