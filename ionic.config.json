@@ -1,0 +1,7 @@
+{
+  "name": "myshoplist",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
